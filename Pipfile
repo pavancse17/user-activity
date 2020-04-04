@@ -11,6 +11,7 @@ autopep8 = "*"
 django = "~=3.0.5"
 faker = "*"
 djangorestframework = "~=3.11.0"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"

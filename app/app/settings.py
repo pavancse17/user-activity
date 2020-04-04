@@ -122,3 +122,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 AUTH_USER_MODEL = 'user_activity.User'
+
+
+import django_heroku
+django_heroku.settings(locals())
