@@ -12,6 +12,7 @@ django = "~=3.0.5"
 faker = "*"
 djangorestframework = "~=3.11.0"
 django-heroku = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
